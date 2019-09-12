@@ -1,0 +1,125 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "fundname": "SBI Blue Chip Fund - Regular Plan - Growth",
+            "minsipamount": 100,
+            "minsipmultiple": 1,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Magnum Balanced Fund - Regular Plan - Growth",
+            "minsipamount": 100,
+            "minsipmultiple": 1,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Arbitrage Opportunities Fund - Regular Plan - Dividend",
+            "minsipamount": 500,
+            "minsipmultiple": 1,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Savings Fund - Regular Plan - Dividend",
+            "minsipamount": 500,
+            "minsipmultiple": 1,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Arbitrage Opportunities Fund - Regular Plan - Growth",
+            "minsipamount": 500,
+            "minsipmultiple": 1,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Magnum Multicap Fund - Regular Plan - Growth",
+            "minsipamount": 500,
+            "minsipmultiple": 1,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Magnum Balanced Fund - Regular Plan - Dividend",
+            "minsipamount": 500,
+            "minsipmultiple": 5,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Magnum Equity Fund - Regular Plan - Dividend",
+            "minsipamount": 500,
+            "minsipmultiple": 10,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Blue Chip Fund - Regular Plan - Dividend Reinvestment",
+            "minsipamount": 500,
+            "minsipmultiple": 100,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        },
+        {
+            "fundname": "SBI Magnum Equity Fund - Regular Plan - Growth",
+            "minsipamount": 500,
+            "minsipmultiple": 1,
+            "sipdates": [
+                1,
+                5,
+                10,
+                15,
+                20
+            ]
+        }
+    ]
+}

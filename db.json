@@ -1,0 +1,254 @@
+{
+      "search": [
+        {
+          "fundname": "SBI Blue Chip Fund - Regular Plan - Growth",
+          "minsipamount": 100,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Magnum Balanced Fund - Regular Plan - Growth",
+          "minsipamount": 100,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Arbitrage Opportunities Fund - Regular Plan - Dividend",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Savings Fund - Regular Plan - Dividend",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Arbitrage Opportunities Fund - Regular Plan - Growth",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Magnum Multicap Fund - Regular Plan - Growth",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Magnum Balanced Fund - Regular Plan - Dividend",
+          "minsipamount": 500,
+          "minsipmultiple": 5,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Magnum Equity Fund - Regular Plan - Dividend",
+          "minsipamount": 500,
+          "minsipmultiple": 10,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Blue Chip Fund - Regular Plan - Dividend Reinvestment",
+          "minsipamount": 500,
+          "minsipmultiple": 100,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "SBI Magnum Equity Fund - Regular Plan - Growth",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "Birla Sun Life Tax Relief 96 Fund - (ELSS) (3 Year Lock-in)- Growth-Regular Plan",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential Focused Bluechip Equity Fund - Growth",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential Long Term Equity Fund (Tax Saving) - Growth",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential Value Discovery Fund - Growth",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential Flexible Income - Growth",
+          "minsipamount": 500,
+          "minsipmultiple": 20,
+          "sipdates": [
+            1,
+            5,
+            15,
+            21
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential Long Term Equity Fund (Tax Saving) - Dividend",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential FMCG Fund - Dividend Reinvestment",
+          "minsipamount": 1000,
+          "minsipmultiple": 100,
+          "sipdates": [
+            1,
+            5,
+            10,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential MIP - Growth AEP Monthly",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential Infrastructure Fund - Dividend",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential Flexible Income - Quarterly Dividend",
+          "minsipamount": 500,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        },
+        {
+          "fundname": "ICICI Prudential Liquid Plan - Annual Dividend",
+          "minsipamount": 100,
+          "minsipmultiple": 1,
+          "sipdates": [
+            1,
+            5,
+            10,
+            15,
+            20
+          ]
+        }
+      ]
+}

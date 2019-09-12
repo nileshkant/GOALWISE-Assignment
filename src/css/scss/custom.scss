@@ -1,0 +1,160 @@
+// all Variables 
+
+%textCenter {
+  text-align: center;
+}
+%width100 {
+    width: 100%;
+}
+
+%fw500 {
+  font-weight: 500;
+}
+
+$color-orange: #FB9A32;
+$color-white: #fff;
+$color-black: #000;
+$color-blue: #197fd3;
+$color-red: #e94b4b;
+$fw500: 500;
+
+
+
+// common Classes
+
+//padding
+
+.pt-10 {
+  padding-top: 10px;
+}
+.pb-10 {
+  padding-bottom: 10px;
+}
+.p-10 {
+  padding: 10px;
+}
+.pr-10 {
+ padding-right: 10px;
+}
+
+//margin
+.mr-10 {
+  margin-right: 10px;
+}
+.mx-0 {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+
+.invest-color {
+  color: $color-blue;
+}
+.fs-10{
+  font-size: 10px;
+}
+.font-medium {
+   font-weight: $fw500;
+   color: $color-black;
+}
+.centered-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text-center {
+  @extend %textCenter;
+}
+
+
+// custom classes
+
+.box-container {
+    border-radius: 5px;
+    box-shadow: 0 3px 12px rgba(0,0,0,0.10), 0 3px 6px rgba(0,0,0,0.15);
+}
+
+.side-box-height {
+    min-height: calc(100vh - 200px);
+}
+
+.search-heading {
+  background-color: $color-orange;
+  height: 50px;
+  line-height: 50px;
+  color: $color-white;
+  font-weight: $fw500;
+  @extend %textCenter, %width100;
+}
+
+input[type="text"] {
+  @extend %width100;
+  border: 2px solid #aaa;
+  border-radius: 4px;
+  margin: 8px 0;
+  outline: none;
+  padding: 8px;
+  box-sizing: border-box;
+  transition: 0.3s;
+  height: 50px;
+  line-height: 50px;
+  font-size: 16px;
+}
+
+input[type="text"]:focus {
+  border-color: dodgerBlue;
+  box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+.input-with-icon input[type="text"] {
+  padding-left: 40px;
+}
+
+.input-with-icon {
+  position: relative;
+}
+
+.input-with-icon i {
+  position: absolute;
+  left: 0;
+  top: 15px;
+  padding: 9px 8px;
+  color: dodgerBlue;
+  transition: 0.3s;
+}
+
+.input-with-icon input[type="text"]:focus + i {
+  color: dodgerBlue;
+}
+
+.custom-rotate {
+    transform: rotate(-45deg);
+}
+
+.btn-primary {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-color: #2196F3;
+  color: dodgerblue;
+  border-radius: 5px;
+}
+
+.btn-primary:hover {
+  background: #2196F3;
+  color: white;
+}
+
+input[type=number] {
+  width: 100%;
+  padding: 12px 2px;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.color-error {
+  color: $color-red;
+}
