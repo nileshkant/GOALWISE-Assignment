@@ -18,6 +18,10 @@
   padding: 10px;
 }
 
+.pr-10 {
+  padding-right: 10px;
+}
+
 .mr-10 {
   margin-right: 10px;
 }
@@ -145,5 +149,11 @@ input[type=number] {
 
 .color-error {
   color: #e94b4b;
+}
+
+.select-title {
+  height: 50px;
+  line-height: 50px;
+  background-color: #E8EDFF;
 }
 /*# sourceMappingURL=custom.css.map */

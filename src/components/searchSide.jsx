@@ -73,6 +73,10 @@ const SearchSide = ({ searchValues, searchData, addToCart, isCartSide = false, i
         <div className="col pt-10">
           <SearchInputBox searchValues={searchValues} />
         </div>)}
+        {isCartSide && (
+        <div className="col select-title">
+          Select Funds
+        </div>)}
         <div className="col">
           {listOfStock()}
         </div>
